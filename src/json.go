@@ -1,4 +1,4 @@
-package lib
+package jsonS3
 
 import (
 	"encoding/json"
